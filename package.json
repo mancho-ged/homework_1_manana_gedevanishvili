@@ -1,0 +1,11 @@
+{
+  "name": "homework_1_manana_gedevanishvili",
+  "version": "1.0.0",
+  "description": "homework 1 for NodeJS Gita Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manana gedevanishvili",
+  "license": "ISC"
+}
