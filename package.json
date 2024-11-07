@@ -4,8 +4,13 @@
   "description": "homework 1 for NodeJS Gita Course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "manana gedevanishvili",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "canvas": "^2.11.2"
+  }
 }
